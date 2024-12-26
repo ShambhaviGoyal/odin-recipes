@@ -98,3 +98,13 @@ footer {
 footer p {
     margin: 5px 0;
 }
+
+/* Style for email link */
+a {
+    color: #1E90FF; /* Blue color */
+    text-decoration: none; /* Removes underline */
+}
+
+a:hover {
+    color: #FF6347; /* Tomato color when hovered */
+}
